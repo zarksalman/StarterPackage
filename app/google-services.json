@@ -1,0 +1,116 @@
+{
+  "project_info": {
+    "project_number": "541347011909",
+    "firebase_url": "https://day-workouts.firebaseio.com",
+    "project_id": "day-workouts",
+    "storage_bucket": "day-workouts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541347011909:android:02a7c0f0cbe4c769",
+        "android_client_info": {
+          "package_name": "com.workoutapps.dayFatBurnWorkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541347011909-ruhdpucsm9ck20433ut891g4bcmv3jur.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "541347011909-ruhdpucsm9ck20433ut891g4bcmv3jur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbMfjTOEcMNNUuuEJCOiucqS5QWKsH-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541347011909:android:016c68309b61d3c6",
+        "android_client_info": {
+          "package_name": "com.thetamobile.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541347011909-ruhdpucsm9ck20433ut891g4bcmv3jur.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "541347011909-ruhdpucsm9ck20433ut891g4bcmv3jur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbMfjTOEcMNNUuuEJCOiucqS5QWKsH-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541347011909:android:00c9c0eb060df9e9",
+        "android_client_info": {
+          "package_name": "com.workoutapps.height.increase.workouts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541347011909-ruhdpucsm9ck20433ut891g4bcmv3jur.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "541347011909-ruhdpucsm9ck20433ut891g4bcmv3jur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJbMfjTOEcMNNUuuEJCOiucqS5QWKsH-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
